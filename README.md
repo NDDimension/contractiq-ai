@@ -15,6 +15,12 @@ ContractIQ is a production-ready AI contract analysis app built with **Flask + L
 
 ---
 
+## 🎬 Live Demo
+
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-Loom_Video-625DF5?style=for-the-badge)](https://drive.google.com/file/d/1F9EN21CxG02ZtMq7jc_slgyGSZYlY6Kv/view?usp=sharing)
+
+---
+
 ## 🧩 The Problem It Solves
 
 Freelancers, founders, consultants, and small teams often receive contracts they do not fully understand. Before sending a document to a lawyer, they usually need a fast first-pass answer:
@@ -156,221 +162,22 @@ contractiq/
 └── README.md
 ```
 
----
-
-## 🚀 Local Setup
-
-### 1. Clone or open the project folder
-
-```bash
-cd ContractIQ
-```
-
-### 2. Create and activate a virtual environment
-
-**Mac / Linux:**
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-**Windows Command Prompt:**
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-**Windows PowerShell:**
-
-```bash
-python -m venv venv
-venv\Scripts\Activate.ps1
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-The first install may take a few minutes because `sentence-transformers` installs PyTorch and embedding dependencies.
-
-### 4. Add your Groq API key
-
-Create a `.env` file:
-
-```bash
-cp .env.example .env
-```
-
-Then add:
-
-```text
-GROQ_API_KEY=gsk_...your_actual_key_here
-```
-
-Get a key from:
-
-```text
-https://console.groq.com/keys
-```
-
-### 5. Run locally
-
-```bash
-python app.py
-```
-
-Open:
-
-```text
-http://localhost:5000
-```
-
----
-
-## 🐳 Docker Setup
-
-Build the image:
-
-```bash
-docker build -t contractiq .
-```
-
-Run the container:
-
-```bash
-docker run --env-file .env -p 5000:5000 contractiq
-```
-
-Or use Docker Compose:
-
-```bash
-docker compose up --build
-```
-
-Open:
-
-```text
-http://localhost:5000
-```
-
-The Docker image uses CPU-only Torch to avoid downloading unnecessary CUDA/GPU packages.
-
----
-
-## ☁️ Deployment
-
-Recommended platforms:
-
-| Platform | Best For |
-|----------|----------|
-| Render | Easiest production deploy for this project |
-| Railway | Fast portfolio/demo deployment |
-| Fly.io | Docker-first deployment with more control |
-| DigitalOcean App Platform | Simple managed app hosting |
-| AWS EC2 / Lightsail | Manual VPS-style deployment |
-
-### Recommended Render Settings
-
-- **Runtime:** Docker or Python
-- **Environment variable:** `GROQ_API_KEY`
-- **Health check path:** `/health`
-- **Start command without Docker:**
-
-```bash
-gunicorn --bind 0.0.0.0:$PORT --workers 1 --threads 4 --timeout 180 app:app
-```
-
-Keep `workers` low on small instances because the embedding model is loaded into memory.
-
----
-
-## ✅ Testing Checklist
-
-Use one of the sample contracts in `test_contracts/`, or upload your own contract.
-
-- [ ] PDF upload works
-- [ ] TXT upload works
-- [ ] DOCX upload works
-- [ ] Paste text works
-- [ ] Loading spinner appears during analysis
-- [ ] Contract Details show extracted metadata
-- [ ] Risk Scanner shows HIGH / MODERATE / LOW / NOT_FOUND results
-- [ ] Missing Clause Check shows PRESENT / MISSING results
-- [ ] Plain-English Summary returns 3 clear sentences
-- [ ] Overall Risk Score returns a number from 1 to 10
-- [ ] `/health` returns `{"status":"ok"}`
-
----
-
-## 🔧 Customization Options
-
-- Add contract-type specific analysis for NDAs, employment agreements, vendor contracts, SaaS terms, or freelance agreements
-- Add user accounts and saved report history
-- Export the final report as PDF
-- Add clause-level citations with page numbers
-- Add a confidence score for each extracted field
-- Add a lawyer-review handoff workflow
-- Add email delivery for completed reports
-- Replace Groq with another LangChain-supported LLM
-- Move FAISS to a persistent vector database for multi-document search
-
----
-
-## 🧯 Troubleshooting
-
-**`ModuleNotFoundError: No module named 'langchain_groq'`**
-
-Make sure your virtual environment is activated, then run:
-
-```bash
-pip install -r requirements.txt
-```
-
-**Groq authentication error**
-
-Check that `.env` contains:
-
-```text
-GROQ_API_KEY=gsk_...
-```
-
-No quotes, no extra spaces.
-
-**`413 Request Entity Too Large`**
-
-The uploaded file is over the Flask limit. Update `MAX_CONTENT_LENGTH` in `app.py` if you need larger files.
-
-**First analysis is slow**
-
-HuggingFace downloads and caches the `all-MiniLM-L6-v2` embedding model on first use.
-
-**Docker image is large**
-
-This is expected because `sentence-transformers`, PyTorch, FAISS, and SciPy are ML-heavy dependencies. The Dockerfile uses CPU-only Torch to keep it much smaller than a CUDA-based image.
-
----
-
-## 💼 Freelance Pitch
-
-> "I built ContractIQ, an AI contract risk scanner that uses LangChain RAG to analyze PDF, TXT, and DOCX contracts. It extracts key terms, flags risky clauses, checks for missing protections, summarizes the agreement in plain English, and generates a 1–10 risk score. Stack: Flask, Groq Llama 3.3 70B, HuggingFace embeddings, FAISS, and Docker."
-
-Use cases:
-- Freelance contract review tools
-- NDA first-pass screening
-- Vendor agreement analysis
-- Employment offer review
-- SaaS terms review
-- Legal-tech MVPs
-
----
+---prot
 
 ## ⚠️ Legal Disclaimer
 
 ContractIQ provides AI-generated first-pass analysis only. It is **not legal advice** and should not replace review by a qualified lawyer.
+
+---
+
+## 📬 Hire Me
+
+I build custom client intake, lead qualification, and consultation automation systems for freelancers and agencies.
+
+- 🔗 **Upwork:** [*Dhanraj Sharma*](https://www.upwork.com/freelancers/~010e4c7ac19e0fdda1?mp_source=share)
+- 🔗 **Contra:** [*Dhanraj Sharma*](https://contra.com/dhanraj_sharma_rgam8kpb?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=dhanraj_sharma_rgam8kpb)
+- 💼 **LinkedIn:** [*Dhanraj Sharma*](https://www.linkedin.com/in/dhanraj-sharma-nddimension/)
+- 📧 **Email:** *hinatashoyo101824@gmail.com*
 
 ---
 
