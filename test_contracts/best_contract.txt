@@ -1,0 +1,83 @@
+PROFESSIONAL SERVICES AGREEMENT
+
+This Agreement ("Agreement") is entered into as of April 15, 2025 ("Effective Date").
+
+Party 1: Summit Technologies Inc., a Delaware corporation ("Client")
+Address: 450 Innovation Drive, Suite 200, Austin, TX 78701
+Party 2: Morgan Chen, d/b/a Chen Consulting ("Contractor")
+Address: 88 Oak Street, San Francisco, CA 94102
+
+Contract Type: Professional Software Consulting Agreement
+Contract Value: $45,000
+Payment Schedule: Monthly milestones
+
+1. SCOPE OF WORK
+The Contractor shall provide software architecture consulting and development services as described in Exhibit A (Statement of Work), attached hereto. Any modifications to the scope of work require a written Change Order signed by both parties, specifying the adjusted timeline and compensation.
+
+2. PAYMENT TERMS
+(a) The Client shall pay the Contractor $9,000 per month over 5 months, due within 10 business days of receiving a valid invoice.
+(b) A deposit of $9,000 (first month) is due upon execution of this Agreement.
+(c) Late payments shall incur interest at 1.5% per month.
+(d) The Client shall reimburse pre-approved expenses within 30 days of submission with receipts.
+
+3. INTELLECTUAL PROPERTY
+(a) Work Product: Upon full payment, all custom deliverables created specifically for this project ("Work Product") shall be assigned to the Client.
+(b) Pre-Existing IP: The Contractor retains ownership of all pre-existing tools, libraries, frameworks, and methodologies. The Client is granted a perpetual, non-exclusive license to use any pre-existing IP incorporated into the Work Product.
+(c) Portfolio Rights: The Contractor may reference this engagement and display non-confidential portions of the work in their professional portfolio.
+
+4. CONFIDENTIALITY
+(a) Both parties agree to maintain the confidentiality of all proprietary and sensitive information disclosed during the engagement.
+(b) Confidential information excludes information that is publicly available, independently developed, or lawfully obtained from a third party.
+(c) This obligation survives for 3 years following termination of this Agreement.
+
+5. LIABILITY AND INDEMNIFICATION
+(a) Limitation of Liability: Each party's total aggregate liability under this Agreement shall not exceed the total contract value ($45,000).
+(b) Exclusion: Neither party shall be liable for indirect, incidental, special, consequential, or punitive damages, including lost profits.
+(c) Indemnification: Each party shall indemnify and hold harmless the other party from any third-party claims arising from the indemnifying party's negligence, willful misconduct, or breach of this Agreement.
+(d) Insurance: The Contractor shall maintain professional liability insurance of at least $1,000,000 during the term of this Agreement.
+
+6. TERMINATION
+(a) Either party may terminate this Agreement for convenience with 30 days' written notice.
+(b) Either party may terminate immediately for cause if the other party materially breaches this Agreement and fails to cure within 15 days of written notice.
+(c) Upon termination, the Client shall pay for all work completed and accepted through the termination date. The Contractor shall deliver all work-in-progress and Client materials.
+(d) Sections 3, 4, 5, 7, and 9 survive termination.
+
+7. NON-COMPETE AND NON-SOLICITATION
+(a) During the term and for 6 months following termination, the Contractor agrees not to directly solicit the Client's employees for employment.
+(b) The Contractor is not restricted from working with competitors of the Client or in any industry. This Agreement does not create an exclusive relationship.
+
+8. DISPUTE RESOLUTION
+(a) The parties shall first attempt to resolve any dispute through good-faith negotiation.
+(b) If negotiation fails within 30 days, the parties agree to non-binding mediation administered by JAMS in San Francisco, CA.
+(c) If mediation fails, disputes shall be resolved by binding arbitration under the rules of the American Arbitration Association, with a single arbitrator. The arbitrator's decision shall be final and enforceable in any court of competent jurisdiction.
+(d) Each party shall bear its own costs and attorneys' fees, unless the arbitrator determines otherwise.
+
+9. WARRANTIES
+(a) The Contractor warrants that all deliverables will be performed in a professional and workmanlike manner consistent with industry standards.
+(b) The Contractor warrants that the Work Product will not infringe upon any third-party intellectual property rights.
+(c) Defects reported within 60 days of final delivery shall be remedied at no additional cost.
+
+10. FORCE MAJEURE
+Neither party shall be liable for delays or failures in performance resulting from causes beyond their reasonable control, including natural disasters, pandemics, government actions, or internet service disruptions. The affected party shall provide prompt notice and use commercially reasonable efforts to mitigate the impact.
+
+11. INDEPENDENT CONTRACTOR STATUS
+The Contractor is an independent contractor, not an employee, agent, or partner of the Client. The Contractor is responsible for their own taxes, insurance, and benefits.
+
+12. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California, without regard to conflict of law principles.
+
+13. ENTIRE AGREEMENT
+This Agreement, including all exhibits and attachments, constitutes the entire agreement between the parties and supersedes all prior negotiations, representations, and agreements. Amendments must be in writing and signed by both parties.
+
+14. AUTO-RENEWAL
+This Agreement does not auto-renew. Any continuation of services beyond the initial term requires a new written agreement or amendment signed by both parties.
+
+SIGNATURES:
+
+Client: _________________________
+Name: David Park, CEO, Summit Technologies Inc.
+Date: _________________________
+
+Contractor: _________________________
+Name: Morgan Chen
+Date: _________________________

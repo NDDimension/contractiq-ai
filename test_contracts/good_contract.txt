@@ -1,0 +1,41 @@
+FREELANCE SERVICES AGREEMENT
+
+This Agreement is entered into as of March 1, 2025.
+
+Party 1: Bright Horizon Digital Agency ("Client")
+Party 2: Alex Rivera, Independent Consultant ("Contractor")
+
+Contract Type: Freelance Web Development Agreement
+Contract Value: $12,000 (paid in milestones)
+
+1. SCOPE OF WORK
+The Contractor shall design and develop a responsive e-commerce website for the Client, including front-end development, CMS integration, and basic SEO setup. Any changes to the scope must be agreed upon in writing by both parties, and may result in additional fees.
+
+2. PAYMENT TERMS
+Payment shall be made in three milestones:
+  - 30% ($3,600) upon signing this Agreement
+  - 40% ($4,800) upon delivery of the first working prototype
+  - 30% ($3,600) upon final delivery and acceptance
+Payments are due within 15 days of invoice. Late payments shall incur a fee of 1.5% per month.
+
+3. INTELLECTUAL PROPERTY
+Upon full payment, all custom work product created specifically for this project shall be transferred to the Client. The Contractor retains the right to reuse general-purpose code, frameworks, and tools. The Contractor may display the completed work in their portfolio.
+
+4. LIABILITY
+The Contractor's total liability under this Agreement shall not exceed the total contract value ($12,000). Neither party shall be liable for indirect, incidental, or consequential damages.
+
+5. CONFIDENTIALITY
+Both parties agree to keep confidential any proprietary information shared during the project. This obligation survives for 2 years after termination.
+
+6. TERMINATION
+Either party may terminate this Agreement with 14 days written notice. Upon termination, the Client shall pay for all work completed up to the termination date. The Contractor shall deliver all work-in-progress materials.
+
+7. WARRANTIES
+The Contractor warrants that the deliverables will be free of material defects for 30 days after final delivery. Bug fixes during this period will be provided at no additional cost.
+
+8. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of California.
+
+SIGNATURES:
+Client: _________________________
+Contractor: _________________________

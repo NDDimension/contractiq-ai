@@ -1,0 +1,40 @@
+FREELANCE SERVICES AGREEMENT
+
+This Agreement is entered into as of January 15, 2025.
+
+Party 1: MegaCorp Industries LLC ("Client")
+Party 2: Jane Smith ("Contractor")
+
+Contract Type: Freelance Services Agreement
+Contract Value: $5,000 total
+
+1. SCOPE OF WORK
+The Contractor shall perform all services as directed by the Client, including but not limited to software development, design, consulting, and any additional tasks the Client deems necessary. The scope of work may be modified at any time by the Client without additional compensation to the Contractor.
+
+2. PAYMENT TERMS
+Payment shall be made at the sole discretion of the Client upon completion of all work to the Client's satisfaction. The Client reserves the right to withhold payment if the work does not meet the Client's subjective standards. No milestone payments or deposits are required. Late payment penalties do not apply.
+
+3. INTELLECTUAL PROPERTY
+All work product, ideas, inventions, code, designs, and materials created by the Contractor during the term of this Agreement, including any work created outside the scope of this Agreement but related to the Client's business, shall be the exclusive property of the Client. The Contractor waives all moral rights.
+
+4. LIABILITY
+The Contractor shall be fully liable for any and all damages, losses, claims, and expenses arising from or related to the services provided, without any limitation. The Client shall not be liable to the Contractor under any circumstances, including negligence.
+
+5. NON-COMPETE
+The Contractor agrees not to work with any competitors of the Client, or in any related industry, for a period of 3 years following the termination of this Agreement, worldwide.
+
+6. CONFIDENTIALITY
+The Contractor shall maintain strict confidentiality of all Client information indefinitely. Breach of this clause shall result in liquidated damages of $500,000.
+
+7. TERMINATION
+The Client may terminate this Agreement at any time, for any reason, without notice and without any obligation to pay for work completed. The Contractor may not terminate this Agreement under any circumstances.
+
+8. DISPUTE RESOLUTION
+All disputes shall be resolved exclusively in the courts of the Client's choosing, at the Contractor's expense. The Contractor waives the right to a jury trial.
+
+9. GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Delaware.
+
+SIGNATURES:
+Client: _________________________
+Contractor: _________________________
