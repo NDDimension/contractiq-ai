@@ -1,4 +1,4 @@
-# SiteScope Proprietary License
+# ContractIQ Proprietary License
 
 Copyright (c) 2026 Dhanraj
 
